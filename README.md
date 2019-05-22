@@ -1,0 +1,2 @@
+# flask_jwt
+手撸了一个flask框架下的简单易版的jwt用于认证
