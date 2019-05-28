@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # 配置类
 class Config(object):
-    # sha256 加密的盐
+    # sha256 的签名秘钥
     SECRET = 'erkjewrjlewrjklecxidugofig'
     # JWT头，存放加密方式
     HEADER = {
